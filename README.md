@@ -46,9 +46,8 @@ Significant MOM Drop: 96% drop in December transactions
 ![image](https://github.com/user-attachments/assets/7f62c4a6-e097-4849-9a33-6f9ff9cdd8a3)
 ![image](https://github.com/user-attachments/assets/02725735-4860-4227-9fea-f00d065689b1)
 ![image](https://github.com/user-attachments/assets/e2c1c31c-7137-4af0-9f21-f9037f8b7464)
-![image](https://github.com/user-attachments/assets/f69b085a-c745-4e71-87dc-62ba470ec730)
 ![image](https://github.com/user-attachments/assets/e14015dc-d50f-4e6d-843b-0a02f8437d2b)
-
+![image](https://github.com/user-attachments/assets/f69b085a-c745-4e71-87dc-62ba470ec730)
 
 Excel: Loan & transaction KPIs
 
